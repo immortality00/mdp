@@ -1,0 +1,55 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/About": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/Contact": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/Gallery": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/Post": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/Projects": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/images": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-fdce77a122c11e06ae50.js",
+      "static/chunks/commons.c118bb11e3c77383aef6.js",
+      "static/runtime/main-22f63127890d42d73b8a.js"
+    ]
+  }
+}

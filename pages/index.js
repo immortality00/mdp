@@ -21,7 +21,7 @@ render () {
     <title>Magic Point Decoration LLC</title>
     <link href="/static/css/main.css" rel="stylesheet" />
   </Head>
-  <video className="video" loop autoPlay>
+  <video className="video" autoPlay loop muted>
             <source src={this.state.videoURL} type="video/mp4" />
             <source src={this.state.videoURL} type="video/ogg" />
             Your browser does not support the video tag.

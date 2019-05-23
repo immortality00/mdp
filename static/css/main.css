@@ -1131,7 +1131,7 @@ body.is-article-visible #bg:after {
 
 #wrapperBackground:after {
   content: "";
-  background: url(/static/About.JPG);
+  background: url(/static/images/AjmanMajlis/20.JPG);
   opacity: 0.5;
   top: 0;
   left: 0;

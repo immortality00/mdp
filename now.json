@@ -1,4 +1,11 @@
 {
     "version": 2,
-    "builds": [{ "src": "package.json", "use": "@now/next" }]
+    "builds": [{ "src": "package.json", "use": "@now/next" }],
+    "routes": [
+      { "src": "/about", "dest": "/About.js" },
+      { "src": "/contact", "dest": "/Contact.js" },
+      { "src": "/gallery", "dest": "/Gallery.js" },
+      { "src": "/projects", "dest": "/Projects.js" }
+    ]
+    
   }
